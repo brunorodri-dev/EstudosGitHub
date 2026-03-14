@@ -2,3 +2,5 @@ AULA DE GIT -   VERSIONAMENTO DE PROJETO 13/13
 
 
 essa linha foin adicionada apos o primeiro commit.
+
+YOU ARE DR, DEDO DE ROLA, TOCOU FODEU.
